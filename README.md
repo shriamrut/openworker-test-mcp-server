@@ -36,7 +36,8 @@ Endpoint URLs:
 - SSE stream: `http://localhost:8000/sse`
 - Message POST: `http://localhost:8000/messages`
 
-## Connecting from OpenWorker Spring AI
+## Connecting from OpenWorker Spring AI 
+reference: https://github.com/shriamrut/openworker-spring
 
 In `application.yml`:
 ```yaml
